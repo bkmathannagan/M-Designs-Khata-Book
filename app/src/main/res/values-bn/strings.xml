@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">এম ডিজাইনস খাতা</string>
+    <string name="app_subtitle">জমা • খরচ • বাকি • খতিয়ান • ক্যাশ বুক</string>
+    <string name="company_name">এম ডিজাইনস</string>
+    <string name="company_website">https://mdesignsrmd.com</string>
+    <string name="currency_symbol">₹</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">হোম</string>
+    <string name="nav_khata">খাতা</string>
+    <string name="nav_reports">রিপোর্ট</string>
+    <string name="nav_money">আয়-ব্যয়</string>
+    <string name="nav_more">অন্যান্য</string>
+
+    <!-- Core Financial Semantics -->
+    <string name="you_collect">পাবো (জমা)</string>
+    <string name="you_give">দেব (বাকি)</string>
+    <string name="net_balance">মোট বাকি</string>
+    <string name="settled">হিসাব সমাপ্ত</string>
+    <string name="credit_receive">জমা / পেয়েছি</string>
+    <string name="debit_give">বাকি / দিয়েছি</string>
+    <string name="income">আয়</string>
+    <string name="expense">ব্যয়</string>
+    <string name="opening_balance">প্রাথমিক স্থিতি</string>
+    <string name="total_receivable">মোট পাওনা</string>
+    <string name="total_payable">মোট দেনা</string>
+    <string name="total_given">মোট দিয়েছি</string>
+    <string name="total_received">মোট পেয়েছি</string>
+
+    <!-- Common Actions -->
+    <string name="add_person">নতুন গ্রাহক যোগ করুন</string>
+    <string name="edit_person">তথ্য পরিবর্তন করুন</string>
+    <string name="add_transaction">এন্ট্রি যোগ করুন</string>
+    <string name="edit_transaction">এন্ট্রি পরিবর্তন করুন</string>
+    <string name="save">সংরক্ষণ করুন</string>
+    <string name="cancel">বাতিল</string>
+    <string name="delete">মুছুন</string>
+    <string name="restore">পুনরুদ্ধার করুন</string>
+    <string name="share">শেয়ার করুন</string>
+    <string name="payment_request">পেমেন্ট অনুরোধ</string>
+    <string name="recycle_bin">রিসাইকেল বিন</string>
+    <string name="search_hint">নাম, ফোন বা নোট দিয়ে খুঁজুন...</string>
+    <string name="filter_all">সব</string>
+    <string name="filter_receivable">পাওনা বাকি</string>
+    <string name="filter_payable">দেনা বাকি</string>
+    <string name="filter_settled">সমাপ্ত খাতা</string>
+
+    <!-- Form Fields -->
+    <string name="name">নাম</string>
+    <string name="mobile_number">মোবাইল নম্বর</string>
+    <string name="alternate_mobile">বিকল্প মোবাইল</string>
+    <string name="address">ঠিকানা</string>
+    <string name="city">শহর</string>
+    <string name="state">রাজ্য</string>
+    <string name="pincode">পিনকোড</string>
+    <string name="email">ইমেইল</string>
+    <string name="notes">মন্তব্য</string>
+    <string name="amount">পরিমাণ</string>
+    <string name="date">তারিখ</string>
+    <string name="time">সময়</string>
+    <string name="description">বিবরণ</string>
+    <string name="category">শ্রেণী</string>
+    <string name="payment_mode">পেমেন্ট পদ্ধতি</string>
+    <string name="due_date">নির্দিষ্ট তারিখ</string>
+
+    <!-- Settings & Tools -->
+    <string name="settings">সেটিংস</string>
+    <string name="language">ভাষা (Language)</string>
+    <string name="select_language">ভাষা নির্বাচন করুন</string>
+    <string name="app_lock">অ্যাপ লক</string>
+    <string name="sound_feedback">সাউন্ড</string>
+    <string name="vibration">ভাইব্রেশন</string>
+    <string name="whatsapp_business">হোয়াটসঅ্যাপ বিজনেস</string>
+    <string name="weekly_excel_report">সাপ্তাহিক এক্সেল ইমেল</string>
+    <string name="business_profile">ব্যবসায়িক প্রোফাইল</string>
+    <string name="business_card">ভিজিটিং কার্ড মেকার</string>
+    <string name="letterhead">লেটারহেড মেকার</string>
+    <string name="denomination_calc">ক্যাশ ক্যালকুলেটর</string>
+    <string name="bank_holidays">ব্যাংক ছুটি</string>
+    <string name="backup_restore">ব্যাকআপ ও পুনরুদ্ধার</string>
+    <string name="about_app">অ্যাপ সম্পর্কে</string>
+
+    <!-- Reports -->
+    <string name="pdf_report">PDF রিপোর্ট</string>
+    <string name="excel_report">এক্সেল রিপোর্ট</string>
+    <string name="full_ledger">সম্পূর্ণ খতিয়ান</string>
+    <string name="short_statement">সংক্ষিপ্ত বিবরণ</string>
+    <string name="daily_report">দৈনিক সারাংশ</string>
+    <string name="monthly_report">মাসিক সারাংশ</string>
+</resources>

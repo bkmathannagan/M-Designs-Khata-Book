@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">எம் டிசைன்ஸ் கணக்கு</string>
+    <string name="app_subtitle">வரவு • பற்று • கடன் • லெட்ஜர் • பணப் புத்தகம்</string>
+    <string name="company_name">எம் டிசைன்ஸ்</string>
+    <string name="company_website">https://mdesignsrmd.com</string>
+    <string name="currency_symbol">₹</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">முகப்பு</string>
+    <string name="nav_khata">கணக்கு</string>
+    <string name="nav_reports">அறிக்கைகள்</string>
+    <string name="nav_money">வரவு செலவு</string>
+    <string name="nav_more">கூடுதல்</string>
+
+    <!-- Core Financial Semantics -->
+    <string name="you_collect">வர வேண்டியது (வரவு)</string>
+    <string name="you_give">கொடுக்க வேண்டியது (பற்று)</string>
+    <string name="net_balance">நிகர இருப்பு</string>
+    <string name="settled">கணக்கு முடிந்தது</string>
+    <string name="credit_receive">வரவு / பெற்றது</string>
+    <string name="debit_give">பற்று / கொடுத்தது</string>
+    <string name="income">வருமானம்</string>
+    <string name="expense">செலவு</string>
+    <string name="opening_balance">தொடக்க இருப்பு</string>
+    <string name="total_receivable">மொத்தம் வர வேண்டியது</string>
+    <string name="total_payable">மொத்தம் கொடுக்க வேண்டியது</string>
+    <string name="total_given">மொத்தம் கொடுத்தது</string>
+    <string name="total_received">மொத்தம் பெற்றது</string>
+
+    <!-- Common Actions -->
+    <string name="add_person">புதிய நபர் சேர்க்க</string>
+    <string name="edit_person">விவரம் மாற்றுக</string>
+    <string name="add_transaction">பதிவு சேர்க்க</string>
+    <string name="edit_transaction">பதிவை மாற்றுக</string>
+    <string name="save">சேமிக்க</string>
+    <string name="cancel">ரத்து</string>
+    <string name="delete">நீக்குக</string>
+    <string name="restore">மீட்டெடு</string>
+    <string name="share">பகிர்க</string>
+    <string name="payment_request">பணம் கோரிக்கை</string>
+    <string name="recycle_bin">குப்பைத் தொட்டி</string>
+    <string name="search_hint">பெயர், எண் அல்லது குறிப்பு கொண்டு தேடுக...</string>
+    <string name="filter_all">அனைத்தும்</string>
+    <string name="filter_receivable">வர வேண்டியவை</string>
+    <string name="filter_payable">தர வேண்டியவை</string>
+    <string name="filter_settled">முடிந்த கணக்குகள்</string>
+
+    <!-- Form Fields -->
+    <string name="name">பெயர்</string>
+    <string name="mobile_number">கைபேசி எண்</string>
+    <string name="alternate_mobile">மாற்று எண்</string>
+    <string name="address">முகவரி</string>
+    <string name="city">நகரம்</string>
+    <string name="state">மாநிலம்</string>
+    <string name="pincode">அஞ்சல் குறியீடு</string>
+    <string name="email">மின்னஞ்சல்</string>
+    <string name="notes">குறிப்புகள்</string>
+    <string name="amount">தொகை</string>
+    <string name="date">தேதி</string>
+    <string name="time">நேரம்</string>
+    <string name="description">விவரம்</string>
+    <string name="category">வகை</string>
+    <string name="payment_mode">பணம் செலுத்திய முறை</string>
+    <string name="due_date">கடைசி தேதி</string>
+
+    <!-- Settings & Tools -->
+    <string name="settings">அமைப்புகள்</string>
+    <string name="language">மொழி (Language)</string>
+    <string name="select_language">மொழியைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="app_lock">ஆப் பூட்டு</string>
+    <string name="sound_feedback">ஒலி பின்னூட்டம்</string>
+    <string name="vibration">அதிர்வு</string>
+    <string name="whatsapp_business">வாட்ஸ்அப் பிசினஸ்</string>
+    <string name="weekly_excel_report">வாராந்திர எக்செல் அறிக்கை</string>
+    <string name="business_profile">வணிக விவரம்</string>
+    <string name="business_card">விசிட்டிங் கார்டு மேக்கர்</string>
+    <string name="letterhead">லெட்டர்ஹெட் மேக்கர்</string>
+    <string name="denomination_calc">பணக் கால்குலேட்டர்</string>
+    <string name="bank_holidays">வங்கி விடுமுறைகள்</string>
+    <string name="backup_restore">காப்பு மற்றும் மீட்டெடுப்பு</string>
+    <string name="about_app">செயலி பற்றி</string>
+
+    <!-- Reports -->
+    <string name="pdf_report">PDF அறிக்கை</string>
+    <string name="excel_report">எக்செல் அறிக்கை</string>
+    <string name="full_ledger">முழு கணக்கு அறிக்கை</string>
+    <string name="short_statement">சுருக்க அறிக்கை</string>
+    <string name="daily_report">தினசரி அறிக்கை</string>
+    <string name="monthly_report">மாதாந்திர அறிக்கை</string>
+</resources>

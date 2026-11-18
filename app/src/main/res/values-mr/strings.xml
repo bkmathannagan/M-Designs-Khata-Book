@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">एम डिझाइन्स खाते</string>
+    <string name="app_subtitle">नावे • जमा • उधारी • वहीखाते • रोख वही</string>
+    <string name="company_name">एम डिझाइन्स</string>
+    <string name="company_website">https://mdesignsrmd.com</string>
+    <string name="currency_symbol">₹</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">होम</string>
+    <string name="nav_khata">खाते</string>
+    <string name="nav_reports">अहवाल</string>
+    <string name="nav_money">उत्पन्न-खर्च</string>
+    <string name="nav_more">इतर</string>
+
+    <!-- Core Financial Semantics -->
+    <string name="you_collect">येणे बाकी (जमा)</string>
+    <string name="you_give">देणे बाकी (नावे)</string>
+    <string name="net_balance">एकूण बाकी</string>
+    <string name="settled">हिशोब पूर्ण</string>
+    <string name="credit_receive">जमा / आलेले</string>
+    <string name="debit_give">नावे / दिलेले</string>
+    <string name="income">उत्पन्न</string>
+    <string name="expense">खर्च</string>
+    <string name="opening_balance">सुरुवातीची बाकी</string>
+    <string name="total_receivable">एकूण येणे बाकी</string>
+    <string name="total_payable">एकूण देणे बाकी</string>
+    <string name="total_given">एकूण दिले</string>
+    <string name="total_received">एकूण मिळाले</string>
+
+    <!-- Common Actions -->
+    <string name="add_person">नवीन व्यक्ती जोडा</string>
+    <string name="edit_person">माहिती बदला</string>
+    <string name="add_transaction">नोंद जोडा</string>
+    <string name="edit_transaction">नोंद बदला</string>
+    <string name="save">जतन करा</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="delete">हटवा</string>
+    <string name="restore">पुनर्संचयित करा</string>
+    <string name="share">शेअर करा</string>
+    <string name="payment_request">पेमेंट विनंती</string>
+    <string name="recycle_bin">रीसायकल बिन</string>
+    <string name="search_hint">नाव, फोन किंवा टिप्पणीद्वारे शोधा...</string>
+    <string name="filter_all">सर्व</string>
+    <string name="filter_receivable">येणे बाकी</string>
+    <string name="filter_payable">देणे बाकी</string>
+    <string name="filter_settled">पूर्ण झालेले खाते</string>
+
+    <!-- Form Fields -->
+    <string name="name">नाव</string>
+    <string name="mobile_number">मोबाईल नंबर</string>
+    <string name="alternate_mobile">पर्यायी मोबाईल</string>
+    <string name="address">पत्ता</string>
+    <string name="city">शहर</string>
+    <string name="state">राज्य</string>
+    <string name="pincode">पिनकोड</string>
+    <string name="email">ईमेल</string>
+    <string name="notes">नोंद</string>
+    <string name="amount">रक्कम</string>
+    <string name="date">तारीख</string>
+    <string name="time">वेळ</string>
+    <string name="description">तपशील</string>
+    <string name="category">वर्ग</string>
+    <string name="payment_mode">पेमेंट प्रकार</string>
+    <string name="due_date">अंतिम तारीख</string>
+
+    <!-- Settings & Tools -->
+    <string name="settings">सेटिंग्ज</string>
+    <string name="language">भाषा (Language)</string>
+    <string name="select_language">भाषा निवडा</string>
+    <string name="app_lock">ॲप लॉक</string>
+    <string name="sound_feedback">आवाज</string>
+    <string name="vibration">व्हायब्रेशन</string>
+    <string name="whatsapp_business">व्हॉट्सॲप बिझनेस</string>
+    <string name="weekly_excel_report">साप्ताहिक एक्सेल ईमेल</string>
+    <string name="business_profile">व्यवसाय प्रोफाइल</string>
+    <string name="business_card">व्हिजिटिंग कार्ड मेकर</string>
+    <string name="letterhead">लेटरहेડ मेकर</string>
+    <string name="denomination_calc">कॅश कॅल्क्युलेटर</string>
+    <string name="bank_holidays">बँक सुट्ट्या</string>
+    <string name="backup_restore">बॅकअप आणि पुनर्संचयन</string>
+    <string name="about_app">ॲपबद्दल</string>
+
+    <!-- Reports -->
+    <string name="pdf_report">PDF अहवाल</string>
+    <string name="excel_report">एक्सेल अहवाल</string>
+    <string name="full_ledger">संपूर्ण वहीखाते</string>
+    <string name="short_statement">संक्षिप्त अहवाल</string>
+    <string name="daily_report">दैनिक सारांश</string>
+    <string name="monthly_report">मासिक सारांश</string>
+</resources>

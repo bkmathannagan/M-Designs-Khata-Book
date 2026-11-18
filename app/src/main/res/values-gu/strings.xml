@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">એમ ડિઝાઇન્સ ખાતા</string>
+    <string name="app_subtitle">ઉધાર • જમા • ખાતાવહી • રોકડ મેળ</string>
+    <string name="company_name">એમ ડિઝાઇન્સ</string>
+    <string name="company_website">https://mdesignsrmd.com</string>
+    <string name="currency_symbol">₹</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">હોમ</string>
+    <string name="nav_khata">ખાતા</string>
+    <string name="nav_reports">રિપોર્ટ્સ</string>
+    <string name="nav_money">આવક-ખર્ચ</string>
+    <string name="nav_more">વધુ</string>
+
+    <!-- Core Financial Semantics -->
+    <string name="you_collect">લેવાના છે (જમા)</string>
+    <string name="you_give">આપવાના છે (ઉધાર)</string>
+    <string name="net_balance">કુલ બાકી</string>
+    <string name="settled">ચૂકતે થયેલ</string>
+    <string name="credit_receive">જમા / મળ્યા</string>
+    <string name="debit_give">ઉધાર / આપ્યા</string>
+    <string name="income">આવક</string>
+    <string name="expense">ખર્ચ</string>
+    <string name="opening_balance">શરૂઆતની બાકી</string>
+    <string name="total_receivable">કુલ લેવાના</string>
+    <string name="total_payable">કુલ આપવાના</string>
+    <string name="total_given">કુલ આપેલ</string>
+    <string name="total_received">કુલ મળેલ</string>
+
+    <!-- Common Actions -->
+    <string name="add_person">નવી વ્યક્તિ ઉમેરો</string>
+    <string name="edit_person">વિગતો બદલો</string>
+    <string name="add_transaction">એન્ટ્રી ઉમેરો</string>
+    <string name="edit_transaction">એન્ટ્રી બદલો</string>
+    <string name="save">સાચવો</string>
+    <string name="cancel">રદ કરો</string>
+    <string name="delete">કાઢી નાખો</string>
+    <string name="restore">પુનઃસ્થાપિત કરો</string>
+    <string name="share">શેર કરો</string>
+    <string name="payment_request">ચુકવણી વિનંતી</string>
+    <string name="recycle_bin">રિસાઇકલ બિન</string>
+    <string name="search_hint">નામ, ફોન અથવા નોંધ શોધો...</string>
+    <string name="filter_all">બધા</string>
+    <string name="filter_receivable">લેવાના બાકી</string>
+    <string name="filter_payable">આપવાના બાકી</string>
+    <string name="filter_settled">ચૂકતે થયેલ ખાતા</string>
+
+    <!-- Form Fields -->
+    <string name="name">નામ</string>
+    <string name="mobile_number">મોબાઇલ નંબર</string>
+    <string name="alternate_mobile">બીજો નંબર</string>
+    <string name="address">સરનામું</string>
+    <string name="city">શહેર</string>
+    <string name="state">રાજ્ય</string>
+    <string name="pincode">પિનકોડ</string>
+    <string name="email">ઇમેઇલ</string>
+    <string name="notes">નોંધ</string>
+    <string name="amount">રકમ</string>
+    <string name="date">તારીખ</string>
+    <string name="time">સમય</string>
+    <string name="description">વર્ણન</string>
+    <string name="category">શ્રેણી</string>
+    <string name="payment_mode">ચુકવણી પદ્ધતિ</string>
+    <string name="due_date">અંતિમ તારીખ</string>
+
+    <!-- Settings & Tools -->
+    <string name="settings">સેટિંગ્સ</string>
+    <string name="language">ભાષા (Language)</string>
+    <string name="select_language">ભાષા પસંદ કરો</string>
+    <string name="app_lock">એપ લોક</string>
+    <string name="sound_feedback">અવાજ</string>
+    <string name="vibration">વાઇબ્રેશન</string>
+    <string name="whatsapp_business">વોટ્સએપ બિઝનેસ</string>
+    <string name="weekly_excel_report">સાપ્તાહિક એક્સેલ ઇમેઇલ</string>
+    <string name="business_profile">વેપાર પ્રોફાઇલ</string>
+    <string name="business_card">બિઝનેસ કાર્ડ મેકર</string>
+    <string name="letterhead">લેટરહેડ મેકર</string>
+    <string name="denomination_calc">રોકડ કેલ્ક્યુલેટર</string>
+    <string name="bank_holidays">બેંક રજાઓ</string>
+    <string name="backup_restore">બેકઅપ અને પુનઃપ્રાપ્તિ</string>
+    <string name="about_app">એપ વિશે</string>
+
+    <!-- Reports -->
+    <string name="pdf_report">PDF રિપોર્ટ</string>
+    <string name="excel_report">એક્સેલ રિપોર્ટ</string>
+    <string name="full_ledger">સંપૂર્ણ ખાતાવહી</string>
+    <string name="short_statement">ટૂંકું વિવરણ</string>
+    <string name="daily_report">દૈનિક સારાંશ</string>
+    <string name="monthly_report">માસિક સારાંશ</string>
+</resources>

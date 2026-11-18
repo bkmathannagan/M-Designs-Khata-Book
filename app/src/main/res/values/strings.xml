@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">M Designs Khata</string>
+    <string name="app_subtitle">Credit • Debit • Udhar • Ledger • Cash Book</string>
+    <string name="company_name">M Designs</string>
+    <string name="company_website">https://mdesignsrmd.com</string>
+    <string name="currency_symbol">₹</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_khata">Khata</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_money">Money</string>
+    <string name="nav_more">More</string>
+
+    <!-- Core Financial Semantics -->
+    <string name="you_collect">You Collect</string>
+    <string name="you_give">You Give</string>
+    <string name="net_balance">Net Balance</string>
+    <string name="settled">Settled</string>
+    <string name="credit_receive">Credit / Receive</string>
+    <string name="debit_give">Debit / Give</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="opening_balance">Opening Balance</string>
+    <string name="total_receivable">Total Receivable</string>
+    <string name="total_payable">Total Payable</string>
+    <string name="total_given">Total Given</string>
+    <string name="total_received">Total Received</string>
+
+    <!-- Common Actions -->
+    <string name="add_person">Add Person</string>
+    <string name="edit_person">Edit Person</string>
+    <string name="add_transaction">Add Entry</string>
+    <string name="edit_transaction">Edit Entry</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="restore">Restore</string>
+    <string name="share">Share</string>
+    <string name="payment_request">Payment Request</string>
+    <string name="recycle_bin">Recycle Bin</string>
+    <string name="search_hint">Search by name, phone or note...</string>
+    <string name="filter_all">All</string>
+    <string name="filter_receivable">Receivable</string>
+    <string name="filter_payable">Payable</string>
+    <string name="filter_settled">Settled</string>
+
+    <!-- Form Fields -->
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="alternate_mobile">Alternate Mobile</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="pincode">Pincode</string>
+    <string name="email">Email</string>
+    <string name="notes">Notes</string>
+    <string name="amount">Amount</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="payment_mode">Payment Mode</string>
+    <string name="due_date">Due Date</string>
+
+    <!-- Settings & Tools -->
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="select_language">Select Language</string>
+    <string name="app_lock">App Lock</string>
+    <string name="sound_feedback">Sound Feedback</string>
+    <string name="vibration">Vibration</string>
+    <string name="whatsapp_business">WhatsApp Business</string>
+    <string name="weekly_excel_report">Weekly Excel to Email</string>
+    <string name="business_profile">Business Profile</string>
+    <string name="business_card">Business Card Maker</string>
+    <string name="letterhead">Letterhead Maker</string>
+    <string name="denomination_calc">Cash Denomination Calculator</string>
+    <string name="bank_holidays">Bank Holidays</string>
+    <string name="backup_restore">Backup &amp; Restore</string>
+    <string name="about_app">About M Designs Khata</string>
+
+    <!-- Reports -->
+    <string name="pdf_report">PDF Report</string>
+    <string name="excel_report">Excel Report</string>
+    <string name="full_ledger">Full Ledger</string>
+    <string name="short_statement">Short Statement</string>
+    <string name="daily_report">Daily Summary</string>
+    <string name="monthly_report">Monthly Summary</string>
+</resources>

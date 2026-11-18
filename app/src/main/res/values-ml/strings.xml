@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">എം ഡിസൈൻസ് ഖാത്ത</string>
+    <string name="app_subtitle">വരവ് • ചെലവ് • കടം • ലഡ്ജർ • ക്യാഷ് ബുക്ക്</string>
+    <string name="company_name">എം ഡിസൈൻസ്</string>
+    <string name="company_website">https://mdesignsrmd.com</string>
+    <string name="currency_symbol">₹</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">ഹോം</string>
+    <string name="nav_khata">ഖാത്ത</string>
+    <string name="nav_reports">റിപ്പോർട്ടുകൾ</string>
+    <string name="nav_money">വരവ് ചെലവ്</string>
+    <string name="nav_more">മറ്റുള്ളവ</string>
+
+    <!-- Core Financial Semantics -->
+    <string name="you_collect">കിട്ടാനുള്ളത് (വരവ്)</string>
+    <string name="you_give">കൊടുക്കാനുള്ളത് (ചെലവ്)</string>
+    <string name="net_balance">ആകെ ബാക്കി</string>
+    <string name="settled">തീർപ്പാക്കി</string>
+    <string name="credit_receive">വരവ് / ലഭിച്ചത്</string>
+    <string name="debit_give">പറ്റ് / കൊടുത്തത്</string>
+    <string name="income">വരുമാനം</string>
+    <string name="expense">ചെലവ്</string>
+    <string name="opening_balance">തുടക്ക ബാക്കി</string>
+    <string name="total_receivable">ആകെ ലഭിക്കാനുള്ളത്</string>
+    <string name="total_payable">ആകെ നൽകാനുള്ളത്</string>
+    <string name="total_given">ആകെ കൊടുത്തത്</string>
+    <string name="total_received">ആകെ ലഭിച്ചത്</string>
+
+    <!-- Common Actions -->
+    <string name="add_person">വ്യക്തിയെ ചേർക്കുക</string>
+    <string name="edit_person">മാറ്റം വരുത്തുക</string>
+    <string name="add_transaction">രേഖപ്പെടുത്തുക</string>
+    <string name="edit_transaction">മാറ്റുക</string>
+    <string name="save">സേവ് ചെയ്യുക</string>
+    <string name="cancel">റദ്ദാക്കുക</string>
+    <string name="delete">ഡിലീറ്റ്</string>
+    <string name="restore">വീണ്ടെടുക്കുക</string>
+    <string name="share">പങ്കുവെക്കുക</string>
+    <string name="payment_request">പണത്തിനായുള്ള അപേക്ഷ</string>
+    <string name="recycle_bin">റീസൈക്കിൾ ബിൻ</string>
+    <string name="search_hint">പേര്, ഫോൺ നമ്പർ വഴി തിരയുക...</string>
+    <string name="filter_all">എല്ലാം</string>
+    <string name="filter_receivable">ലഭിക്കാനുള്ളവ</string>
+    <string name="filter_payable">നൽകാനുള്ളവ</string>
+    <string name="filter_settled">തീർപ്പാക്കിയവ</string>
+
+    <!-- Form Fields -->
+    <string name="name">പേര്</string>
+    <string name="mobile_number">മൊബൈൽ നമ്പർ</string>
+    <string name="alternate_mobile">മറ്റൊരു നമ്പർ</string>
+    <string name="address">മേൽവിലാസം</string>
+    <string name="city">നഗരം</string>
+    <string name="state">സംസ്ഥാനം</string>
+    <string name="pincode">പിൻകോഡ്</string>
+    <string name="email">ഇമെയിൽ</string>
+    <string name="notes">കുറിപ്പ്</string>
+    <string name="amount">തുക</string>
+    <string name="date">തീയതി</string>
+    <string name="time">സമയം</string>
+    <string name="description">വിവരണം</string>
+    <string name="category">വിഭാഗം</string>
+    <string name="payment_mode">പണമടച്ച രീതി</string>
+    <string name="due_date">അവസാന തീയതി</string>
+
+    <!-- Settings & Tools -->
+    <string name="settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="language">ഭാഷ (Language)</string>
+    <string name="select_language">ഭാഷ തിരഞ്ഞെടുക്കുക</string>
+    <string name="app_lock">ആപ്പ് ലോക്ക്</string>
+    <string name="sound_feedback">ശബ്ദം</string>
+    <string name="vibration">വൈബ്രേഷൻ</string>
+    <string name="whatsapp_business">വാട്സ്ആപ്പ് ബിസിനസ്സ്</string>
+    <string name="weekly_excel_report">പ്രതിവാര എക്സൽ ഇമെയിൽ</string>
+    <string name="business_profile">ബിസിനസ് പ്രൊഫൈൽ</string>
+    <string name="business_card">ബിസിനസ് കാർഡ് മേക്കർ</string>
+    <string name="letterhead">ലെറ്റർഹെഡ് മേക്കർ</string>
+    <string name="denomination_calc">ക്യാഷ് കാൽക്കുലേറ്റർ</string>
+    <string name="bank_holidays">ബാങ്ക് അവധികൾ</string>
+    <string name="backup_restore">ബാക്കപ്പും വീണ്ടെടുക്കലും</string>
+    <string name="about_app">ആപ്പിനെക്കുറിച്ച്</string>
+
+    <!-- Reports -->
+    <string name="pdf_report">PDF റിപ്പോർട്ട്</string>
+    <string name="excel_report">എക്സൽ റിപ്പോർട്ട്</string>
+    <string name="full_ledger">മുഴുവൻ ലഡ്ജർ</string>
+    <string name="short_statement">ചുരുക്ക വിവരണം</string>
+    <string name="daily_report">ദിവസേനയുള്ള റിപ്പോർട്ട്</string>
+    <string name="monthly_report">പ്രതിമാസ റിപ്പോർട്ട്</string>
+</resources>

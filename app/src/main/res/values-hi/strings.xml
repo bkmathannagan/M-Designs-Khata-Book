@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">एम डिजाइन्स खाता</string>
+    <string name="app_subtitle">उधार • जमा • खाता बही • रोकड़ बही</string>
+    <string name="company_name">एम डिजाइन्स</string>
+    <string name="company_website">https://mdesignsrmd.com</string>
+    <string name="currency_symbol">₹</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">होम</string>
+    <string name="nav_khata">खाता</string>
+    <string name="nav_reports">रिपोर्ट्स</string>
+    <string name="nav_money">आय-व्यय</string>
+    <string name="nav_more">अन्य</string>
+
+    <!-- Core Financial Semantics -->
+    <string name="you_collect">लेना है (प्राप्त करें)</string>
+    <string name="you_give">देना है (भुगतान करें)</string>
+    <string name="net_balance">कुल शेष</string>
+    <string name="settled">चुकता (हिसाब बराबर)</string>
+    <string name="credit_receive">जमा / प्राप्त हुआ</string>
+    <string name="debit_give">उधार / दिया</string>
+    <string name="income">आय</string>
+    <string name="expense">खर्च</string>
+    <string name="opening_balance">प्रारंभिक शेष</string>
+    <string name="total_receivable">कुल लेना है</string>
+    <string name="total_payable">कुल देना है</string>
+    <string name="total_given">कुल दिया</string>
+    <string name="total_received">कुल मिला</string>
+
+    <!-- Common Actions -->
+    <string name="add_person">नया ग्राहक जोड़ें</string>
+    <string name="edit_person">विवरण बदलें</string>
+    <string name="add_transaction">प्रविष्टि जोड़ें</string>
+    <string name="edit_transaction">प्रविष्टि बदलें</string>
+    <string name="save">सुरक्षित करें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="delete">हटाएं</string>
+    <string name="restore">पुनर्स्थापित करें</string>
+    <string name="share">शेयर करें</string>
+    <string name="payment_request">भुगतान अनुरोध</string>
+    <string name="recycle_bin">रीसायकल बिन</string>
+    <string name="search_hint">नाम, फोन या नोट से खोजें...</string>
+    <string name="filter_all">सभी</string>
+    <string name="filter_receivable">लेना बाकी</string>
+    <string name="filter_payable">देना बाकी</string>
+    <string name="filter_settled">चुकता खाते</string>
+
+    <!-- Form Fields -->
+    <string name="name">नाम</string>
+    <string name="mobile_number">मोबाइल नंबर</string>
+    <string name="alternate_mobile">अन्य मोबाइल</string>
+    <string name="address">पता</string>
+    <string name="city">शहर</string>
+    <string name="state">राज्य</string>
+    <string name="pincode">पिनकोड</string>
+    <string name="email">ईमेल</string>
+    <string name="notes">टिप्पणी / विवरण</string>
+    <string name="amount">राशि</string>
+    <string name="date">दिनांक</string>
+    <string name="time">समय</string>
+    <string name="description">विवरण</string>
+    <string name="category">श्रेणी</string>
+    <string name="payment_mode">भुगतान माध्यम</string>
+    <string name="due_date">नियत तारीख</string>
+
+    <!-- Settings & Tools -->
+    <string name="settings">सेटिंग्स</string>
+    <string name="language">भाषा (Language)</string>
+    <string name="select_language">भाषा चुनें</string>
+    <string name="app_lock">ऐप लॉक</string>
+    <string name="sound_feedback">ध्वनि प्रतिक्रिया</string>
+    <string name="vibration">कंपन</string>
+    <string name="whatsapp_business">व्हाट्सएप बिजनेस</string>
+    <string name="weekly_excel_report">साप्ताहिक एक्सेल ईमेल</string>
+    <string name="business_profile">व्यापार प्रोफ़ाइल</string>
+    <string name="business_card">बिजनेस कार्ड मेकर</string>
+    <string name="letterhead">लेटरहेड मेकर</string>
+    <string name="denomination_calc">कैश कैलकुलेटर</string>
+    <string name="bank_holidays">बैंक अवकाश</string>
+    <string name="backup_restore">बैकअप और पुनर्स्थापना</string>
+    <string name="about_app">ऐप के बारे में</string>
+
+    <!-- Reports -->
+    <string name="pdf_report">पीडीएफ रिपोर्ट</string>
+    <string name="excel_report">एक्सेल रिपोर्ट</string>
+    <string name="full_ledger">पूर्ण खाता बही</string>
+    <string name="short_statement">संक्षिप्त विवरण</string>
+    <string name="daily_report">दैनिक सारांश</string>
+    <string name="monthly_report">मासिक सारांश</string>
+</resources>

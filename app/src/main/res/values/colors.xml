@@ -1,0 +1,9 @@
+<resources>
+    <color name="primary_teal">#006A60</color>
+    <color name="primary_teal_dark">#53DBC9</color>
+    <color name="credit_green">#2E7D32</color>
+    <color name="debit_red">#D32F2F</color>
+    <color name="neutral_gray">#757575</color>
+    <color name="surface_light">#FAFDFB</color>
+    <color name="surface_dark">#191C1B</color>
+</resources>

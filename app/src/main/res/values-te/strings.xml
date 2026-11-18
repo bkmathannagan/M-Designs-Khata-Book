@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">ఎం డిజైన్స్ ఖాతా</string>
+    <string name="app_subtitle">జమ • ఖర్చు • ఉధార్ • లెడ్జర్ • క్యాష్ బుక్</string>
+    <string name="company_name">ఎం డిజైన్స్</string>
+    <string name="company_website">https://mdesignsrmd.com</string>
+    <string name="currency_symbol">₹</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">హోమ్</string>
+    <string name="nav_khata">ఖాతా</string>
+    <string name="nav_reports">రిపోర్టులు</string>
+    <string name="nav_money">ఆదాయ వ్యయాలు</string>
+    <string name="nav_more">మరిన్ని</string>
+
+    <!-- Core Financial Semantics -->
+    <string name="you_collect">రావలసినవి (వసూలు)</string>
+    <string name="you_give">ఇవ్వవలసినవి (చెల్లింపు)</string>
+    <string name="net_balance">నికర నిల్వ</string>
+    <string name="settled">పూర్తయింది (లెక్క సరిపోయింది)</string>
+    <string name="credit_receive">జమ / వచ్చినవి</string>
+    <string name="debit_give">ఖర్చు / ఇచ్చినవి</string>
+    <string name="income">ఆదాయం</string>
+    <string name="expense">ఖర్చు</string>
+    <string name="opening_balance">ప్రారంభ నిల్వ</string>
+    <string name="total_receivable">మొత్తం రావలసినవి</string>
+    <string name="total_payable">మొత్తం ఇవ్వవలసినవి</string>
+    <string name="total_given">మొత్తం ఇచ్చినవి</string>
+    <string name="total_received">మొత్తం వచ్చినవి</string>
+
+    <!-- Common Actions -->
+    <string name="add_person">వ్యక్తిని చేర్చండి</string>
+    <string name="edit_person">సవరించండి</string>
+    <string name="add_transaction">నమోదు చేయండి</string>
+    <string name="edit_transaction">నమోదును సవరించండి</string>
+    <string name="save">సేవ్ చేయండి</string>
+    <string name="cancel">రద్దు చేయండి</string>
+    <string name="delete">తొలగించండి</string>
+    <string name="restore">పునరుద్ధరించండి</string>
+    <string name="share">షేర్ చేయండి</string>
+    <string name="payment_request">చెల్లింపు అభ్యర్థన</string>
+    <string name="recycle_bin">రీసైకిల్ బిన్</string>
+    <string name="search_hint">పేరు, ఫోన్ లేదా నోట్ ద్వారా వెతకండి...</string>
+    <string name="filter_all">అన్నీ</string>
+    <string name="filter_receivable">రావలసినవి</string>
+    <string name="filter_payable">ఇవ్వవలసినవి</string>
+    <string name="filter_settled">సరిపోయినవి</string>
+
+    <!-- Form Fields -->
+    <string name="name">పేరు</string>
+    <string name="mobile_number">మొబైల్ నంబర్</string>
+    <string name="alternate_mobile">మరొక నంబర్</string>
+    <string name="address">చిరునామా</string>
+    <string name="city">నగరం</string>
+    <string name="state">రాష్ట్రం</string>
+    <string name="pincode">పిన్‌కోడ్</string>
+    <string name="email">ఈమెయిల్</string>
+    <string name="notes">గమనికలు</string>
+    <string name="amount">మొత్తం</string>
+    <string name="date">తేదీ</string>
+    <string name="time">సమయం</string>
+    <string name="description">వివరాలు</string>
+    <string name="category">వర్గం</string>
+    <string name="payment_mode">చెల్లింపు పద్ధతి</string>
+    <string name="due_date">గడువు తేదీ</string>
+
+    <!-- Settings & Tools -->
+    <string name="settings">సెట్టింగ్‌లు</string>
+    <string name="language">భాష (Language)</string>
+    <string name="select_language">భాషను ఎంచుకోండి</string>
+    <string name="app_lock">యాప్ లాక్</string>
+    <string name="sound_feedback">ధ్వని ఫీడ్‌బ్యాక్</string>
+    <string name="vibration">వైబ్రేషన్</string>
+    <string name="whatsapp_business">వాట్సాప్ బిజినెస్</string>
+    <string name="weekly_excel_report">వారంవారీ ఎక్సెల్ ఈమెయిల్</string>
+    <string name="business_profile">వ్యాపార ప్రొఫైల్</string>
+    <string name="business_card">బిజినెస్ కార్డ్ మేకర్</string>
+    <string name="letterhead">లెటర్‌హెడ్ మేకర్</string>
+    <string name="denomination_calc">క్యాష్ క్యాలిక్యులేటర్</string>
+    <string name="bank_holidays">బ్యాంక్ సెలవులు</string>
+    <string name="backup_restore">బ్యాకప్ &amp; రీస్టోర్</string>
+    <string name="about_app">యాప్ గురించి</string>
+
+    <!-- Reports -->
+    <string name="pdf_report">PDF నివేదిక</string>
+    <string name="excel_report">ఎక్సెల్ నివేదిక</string>
+    <string name="full_ledger">పూర్తి లెడ్జర్</string>
+    <string name="short_statement">సంక్షిప్త నివేదిక</string>
+    <string name="daily_report">రోజువారీ నివేదిక</string>
+    <string name="monthly_report">నెలవారీ నివేదిక</string>
+</resources>
